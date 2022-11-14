@@ -1,0 +1,30 @@
+df=6 theta=0 T=2000
+>> nonpara_es_coverage
+
+nonpara_es_coverage =
+
+    0.8880
+    0.8970
+
+>> para_es_coverage
+
+para_es_coverage =
+
+    0.9720
+    0.9700
+
+>> nonparacilength
+
+nonparacilength =
+
+    0.5009
+    0.4970
+
+>> paracilength
+
+paracilength =
+
+    0.5017
+    0.4994
+
+>> 
