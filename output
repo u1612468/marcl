@@ -1,0 +1,31 @@
+df=3 theta=0 T=100
+>> para_es_coverage
+
+para_es_coverage =
+
+    0.9070
+    0.9120
+
+>>  nonpara_es_coverage
+
+nonpara_es_coverage =
+
+    0.7640
+    0.7930
+
+>> paracilength
+
+paracilength =
+
+    4.5077
+    4.5211
+
+>> nonparacilength
+
+nonparacilength =
+
+    3.8537
+    4.0359
+    
+    
+    
