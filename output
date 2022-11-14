@@ -215,6 +215,156 @@ nonparacilength =
     4.7641
 
     
+  df=3 theta=-3 T=500    
+ >> para_es_coverage
+
+para_es_coverage =
+
+    0.2290
+    0.2250
+
+>> nonpara_es_coverage
+
+nonpara_es_coverage =
+
+    0.8460
+    0.8450
+
+>> paracilength
+
+paracilength =
+
+    6.0424
+    6.0233
+
+>> nonparacilength
+
+nonparacilength =
+
+    6.5572
+    6.4402
+
+    
+        
+  df=3 theta=0 T=2000
+  
+  >> nonpara_es_coverage
+
+nonpara_es_coverage =
+
+    0.8750
+    0.8800
+
+>> para_es_coverage
+
+para_es_coverage =
+
+    0.9820
+    0.9750
+
+>> nonparacilength
+
+nonparacilength =
+
+    1.0330
+    1.0363
+
+>> paracilength
+
+paracilength =
+
+    1.0671
+    1.0613
+    
+df=3 theta=-1 T=2000    
+>> nonpara_es_coverage
+
+nonpara_es_coverage =
+
+    0.8980
+    0.8620
+
+>> para_es_coverage
+
+para_es_coverage =
+
+    0.0010
+    0.0030
+
+>> nonparacilength
+
+nonparacilength =
+
+    1.7473
+    1.7232
+
+>> paracilength
+
+paracilength =
+
+    1.3462
+    1.3384
     
     
     
+        
+df=3 theta=-2 T=2000    
+
+>> nonpara_es_coverage
+
+nonpara_es_coverage =
+
+    0.8860
+    0.8780
+
+para_es_coverage
+
+para_es_coverage =
+
+     0
+     0
+
+nonparacilength
+
+nonparacilength =
+
+    2.5776
+    2.5377
+
+paracilength
+
+paracilength =
+
+    2.1206
+    2.1053
+    
+    
+    df=3 theta=-3 T=2000   
+    >> nonpara_es_coverage
+
+nonpara_es_coverage =
+
+    0.8620
+    0.8840
+
+>> para_es_coverage
+
+para_es_coverage =
+
+    0.0010
+    0.0020
+
+>> nonparacilength
+
+nonparacilength =
+
+    3.4921
+    3.4756
+
+>> paracilength
+
+paracilength =
+
+    3.2176
+    3.2224
+
